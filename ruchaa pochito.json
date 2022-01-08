@@ -23,6 +23,28 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "godisto pa la ruchaa",
+            "hash": 3654674561,
+            "name": "RuchaaGod",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    1546637391
+                ],
+                [
+                    1067908860
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }
