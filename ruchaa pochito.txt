@@ -7,3 +7,8 @@ description:ps sepa lavga
 dimwishlist:item=1679868061&perks=1300023272,106909392,1556840489,3673922083
 
 
+// Dead Man's Tale - RuchaaGod (god-pve)
+//notes: godisto pa la ruchaa tags:god-pve
+dimwishlist:item=3654674561&perks=1840239774,3230963543,1546637391,1067908860
+
+
